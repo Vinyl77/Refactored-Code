@@ -43,8 +43,6 @@ a {
     text-decoration: none;
 }
 
-
-
 .hero {
     height: 800px;
     width: 100%;
@@ -83,45 +81,21 @@ a {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    
+.benefit-assets {
+/*this class was grouped together because they do all the same function */
     color: #ffffff;
     margin-bottom: 25px;
     text-align: center;
 }
 
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-    margin-bottom: 25px;
-    text-align: center;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-    margin-bottom: 25px;
-    text-align: center;
-
-}
-.benefit-lead img {
+.benefit-assets img {
+/* this class was grouped together because they do all the same function */
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 .benefit-box{
     /* this is for the paragraph on the benefits box */
         font-size: 16px;
@@ -129,7 +103,7 @@ a {
 }
 
 /* I grouped these together for easier access, also changed Height, Margin Bottom, and Padding*/
-.search-engine-optimization {
+.service {
     margin-bottom: 10px;
     padding: 35px;
     height: 320px;
@@ -147,40 +121,8 @@ font-size: 18px;
     margin-top: 15px;
 
 }
-/* I grouped these together for easier access, also changed Height, Margin Bottom, and Padding*/
-.online-reputation-management {
-    margin-bottom: 10px;
-    padding: 35px;
-    height: 320px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-    font-size: 25px;
-}
 
-
-
-/* I grouped these together for easier access, also changed Height, Margin Bottom, and Padding*/
-.social-media-marketing {
-    margin-bottom: 10px;
-    padding: 40px;
-    height: 320px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-    font-size: 25px;
-}
-
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
+.service img {
     max-height: 200px;
 }
 /* I added a visibility property, this can be removed if desired. */
