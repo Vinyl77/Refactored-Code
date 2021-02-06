@@ -21,6 +21,6 @@
   Powered By Horiseon
 
 # Link
-  [https://github.com/Vinyl77/Refactored-Code]
-  [https://vinyl77.github.io/Refactored-Code/]
+  * [https://github.com/Vinyl77/Refactored-Code]
+  * [https://vinyl77.github.io/Refactored-Code/]
 
